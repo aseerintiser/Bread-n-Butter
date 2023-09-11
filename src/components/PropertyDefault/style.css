@@ -1,0 +1,24 @@
+.property-default {
+  align-items: center;
+  background-color: #fff1e1;
+  border-radius: 49px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 15px 48px;
+  position: relative;
+}
+
+.property-default .BUTTON {
+  color: #29292e;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 3.14px;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
